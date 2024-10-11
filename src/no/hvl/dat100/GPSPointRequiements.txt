@@ -1,0 +1,7 @@
+Generate a Java class for GPS points with the following object variables: time (integer), latitude (double), longitude (double), and elevation (double)
+
+The class should have getter and setter methods for the object variables and a toString method.
+
+--
+
+Change the toString method such that the output will be on the form: "1 (2.0,3.0) 5.0\n"
