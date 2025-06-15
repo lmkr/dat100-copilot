@@ -1,0 +1,51 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+
+# Build outputs
+/out/
+build/
+bin/
+target/
+
+# Maven specific
+.mvn/
+pom.xml
+
+# Gradle specific
+.gradle/
+build/
+gradle-app.setting
+
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Thumbnails
+*.png
+*.jpg
+*.jpeg
+
+# Other
+*.jar
+*.war
+*.ear
+*.db
+*.log
+
+# Coverage
+coverage/
+
+# JetBrains specific
+.idea/
+
+### Mac OS ###
+.DS_Store

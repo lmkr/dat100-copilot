@@ -1,0 +1,1 @@
+Generate code for the class DigitalWallet with object variables owner (a String) and balance (double). The object variables are only to be visible within the class
